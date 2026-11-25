@@ -8,4 +8,4 @@ The repositories here are mostly coursework. There's a SOC triage tool that read
 
 There's cloud and networking work too: an AWS setup with auto scaling, a Palo Alto firewall across two sites, and a mobile forensics case that hinged on a calculator app which turned out to be something else entirely.
 
-[GitHub](https://github.com/xanyeo06) · [LinkedIn](https://www.linkedin.com/in/xanyeo)
+[Portfolio](https://xanyeo06.github.io) · [GitHub](https://github.com/xanyeo06) · [LinkedIn](https://www.linkedin.com/in/xanyeo)
